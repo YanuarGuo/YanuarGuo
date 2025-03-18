@@ -1,4 +1,4 @@
-<h3 align="center">Yanuar, the destroyer of reality and full-stack web developer<br>^-^</h3>
+<h3 align="center">Yanuar, the destroyer of reality and full-stack developer<br>^-^</h3>
 
 ###
 
